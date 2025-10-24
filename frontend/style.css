@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(74, 189, 235);
+    font-style: italic;
+}
+
+img{
+    /* tamanho da imagem  */
+    width: 500px;
+    margin-bottom: 15px;
+    margin-top: 40px;
+
+}
+
+h1{
+
+   font-size: 75px;
+}
